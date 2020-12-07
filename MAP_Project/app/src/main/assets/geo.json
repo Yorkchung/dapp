@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "中興湖"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.120873, 120.674286
+        ]
+      }
+    }
+  ]
+}
